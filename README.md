@@ -1,15 +1,8 @@
 <h1 align="center">Hey there 👋</h1>
 
-###
 
-<div align="center">
-  <img height="300" src="https://github.com/user-attachments/assets/79d20d4d-7d86-442e-8b45-8594df8cd224"
-/>
-</div>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
