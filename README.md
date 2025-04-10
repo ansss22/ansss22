@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h3>Hey there 👋</h1>
 
 
 
@@ -6,11 +6,15 @@
 
 ###
 
-<p align="left">I'm a Full Stack Developer 💻 passionate about creating innovative web applications 🌐, integrating AI solutions 🤖, and delivering actionable data insights 📊. I love blending technical expertise with creativity to build user-focused solutions 🎨.<br><br>Some technologies I enjoy working with include React, Node.js, Python, and SQL ⚙️, along with tools like Tableau and Power BI 📉 for visualizing data. My passion for AI and data drives me to craft intelligent systems 🔍 that empower businesses and elevate decision-making 🚀.<br><br>I'm committed to continuous learning 📘 and contributing to impactful projects, bridging the gap between development, AI integration, and data analysis 🌟.</p>
+<p align="left">I'm Anass, a Full Stack Developer based in Morocco.
+
+I enjoy combining creativity with technical expertise to build innovative and efficient web applications. My goal is to create impactful software that delivers seamless user experiences.
+
+Outside of work, I’m passionate about learning more about the tech world and working on side projects to keep growing and improving. I also document my projects and insights online.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -19,21 +23,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -55,11 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
