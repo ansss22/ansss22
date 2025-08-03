@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Anass, a Full Stack Developer based in Morocco.
+<p align="left">I'm Anas, a Full Stack Developer based in Morocco.
 
 I enjoy combining creativity with technical expertise to build innovative and efficient web applications. My goal is to create impactful software that delivers seamless user experiences.
 
