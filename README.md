@@ -6,9 +6,10 @@
 
 ###
 
-<p align="left">I'm Anas, a Full Stack Developer based in Morocco.
+<p align="left">
+I'm Anass, a Data Analyst & AI Enthusiast based in Morocco.
 
-I enjoy combining creativity with technical expertise to build innovative and efficient web applications. My goal is to create impactful software that delivers seamless user experiences.
+I enjoy exploring data, finding meaningful insights, and applying machine learning techniques to solve real-world problems. My goal is to turn data into actionable knowledge and contribute to building intelligent solutions.
 
-Outside of work, I’m passionate about learning more about the tech world and working on side projects to keep growing and improving. I also document my projects and insights online.</p>
+Outside of work, I’m passionate about continuous learning in data science and artificial intelligence. I also enjoy working on personal projects, experimenting with new tools, and sharing what I learn along the way..</p>
 
